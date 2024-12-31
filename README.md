@@ -7,11 +7,11 @@
 
 
 2. Dataset
-
->- root/
->    ​- data/	
->​        - test/
->​			      - MDvsFA/
->​			      - SIRST/
->​		- train/
-
+```
+- root/
+  ​  - data/	
+​        - test/
+            - MDvsFA/
+​            - SIRST/
+        - train/
+```
