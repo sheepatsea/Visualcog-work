@@ -8,15 +8,10 @@
 
 2. Dataset
 
->-root/
->
->​	- data/	
->
->​		- test/
->
->​			- MDvsFA/
->
->​			- SIRST/
->
+>- root/
+>    ​- data/	
+>​        - test/
+>​			      - MDvsFA/
+>​			      - SIRST/
 >​		- train/
 
